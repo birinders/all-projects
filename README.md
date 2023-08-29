@@ -1,5 +1,5 @@
 <h1>Project Index</h1>
-<p>This is an exhaustive index of all my current projects. You can find all of the Source code on their respective repositories, or find the compiled versions in the Releases section.</p>
+<p>This is an exhaustive index of all my current projects on GitHub. You can find all of the source code on their respective repositories, or find the compiled versions in the "Releases" section.</p>
 <p><code>pip</code> versions of some Python projects are now available as well!</p>
 <hr>
 <h2>🌟Featured Projects</h2>
