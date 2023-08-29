@@ -34,7 +34,7 @@
 <li><h3><a href="https://github.com/birinders/AsciiVideoCPP">AsciiVideo, C++</a></h3>
   A C++ port of my AsciiVideo project, which was originally written in python.</p>
   
-<li><h3>Image Modifier, Python (not available on GitHub yet)</h3><br>
+<li><h3>Image Modifier, Python (not available on GitHub yet)</h3>
   A GUI program that can modify images using techniques like blurring, noising, denoising, sharpening, etc</p>
 </ol>
 <hr>
