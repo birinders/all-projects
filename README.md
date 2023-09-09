@@ -47,6 +47,14 @@
   A visualizer which works inside the terminal to visualize how different forms of searching algorithms work to find their targets.</p>
 </ol>
 <hr>
+
+<h2>🧰Tools/Libraries</h2>
+<ol>
+<li><h3><a href="https://github.com/birinders/LeetCode-Tools">LeetCode Tools</a></h3>
+  A easy to set-up and use library for all your leetcode needs! Includes all the necessary functions to build LeetCode objects like Linked Lists and especially Binary Trees for custom debugging on your own IDEs. Also automatically imports the most commonly used tools like defaultdict, Counter and so on for you to use right away.
+</ol>
+<hr>
+
 <h2>🔧Miscellaneous</h2>
 <ol>
 <li><h3><a href="https://github.com/birinders/MatrixEffect">Matrix Effect</a></h3>
